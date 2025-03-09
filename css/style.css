@@ -48,6 +48,7 @@ body{
 .text{
     text-align: left;
     margin-left: 24px;
+    color: white;
 }
 
 .code{
@@ -83,10 +84,12 @@ body{
 
 .title{
     margin-top: 30px;
+    color: white;
 }
 
 .subtitle{
     margin-top: 18px;
     text-align: left;
     margin-left: 24px;
+    color: white;
 }
